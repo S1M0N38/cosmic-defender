@@ -1,6 +1,8 @@
 # Cosmic Defender
 
-![Cosmic Defender Screenshot](your-screenshot-here.png)
+<div align="center">
+   <img width="796" alt="Cosmic Defender Screenshot" src="https://github.com/user-attachments/assets/28e01849-4212-4b55-830b-7014f6e0a550" />
+</div>
 
 ## Captain's Log: Stardate 2579.8
 
